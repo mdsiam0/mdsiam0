@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/kgRbCY08/Screenshot-2025-10-17-195251.png" alt="Siam's GitHub Banner" style="max-width: 100%; height: auto;" />
+  <img src="https://i.ibb.co/kgRbCY08/Screenshot-2025-10-17-195251.png" alt="Siam's GitHub Banner" width="100%" />
 </p>
+
 
 <div align="center">
 <h1 align="center">Hi there, I'm Siam 👋</h1>
