@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/dev-siam/dev-siam/main/cover.png" alt="Siam's GitHub Banner">
+<img src="https://i.ibb.co.com/kgRbCY08/Screenshot-2025-10-17-195251.png" alt="Siam's GitHub Banner">
 </p>
 
 <div align="center">
@@ -55,8 +55,6 @@ Tools & Others:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="git" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
-
-📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdsiam0&show_icons=true&locale=en&theme=tokyonight" alt="siam-github-stats" />
