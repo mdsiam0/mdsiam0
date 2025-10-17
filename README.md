@@ -3,11 +3,6 @@
 </p>
 
 
-<div align="center">
-<h1 align="center">Hi there, I'm Siam 👋</h1>
-<h3 align="center">A Passionate Frontend Developer from Bangladesh 🇧🇩</h3>
-</div>
-
 🙋‍♂️ About Me
 
 <p align="left">
