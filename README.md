@@ -77,5 +77,6 @@ You can find me in the following places. I'm always open to connecting with othe
 <strong>Phone:</strong> +880 1762 248517
 
 <a href="https://www.linkedin.com/in/mdsiam0/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="siam-linkedin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/md.siam.2004" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="siam-facebook" height="30" width="40" /></a>
 <a href="https://x.com/mds1am" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="siam-twitter" height="30" width="40" /></a>
 </p>
