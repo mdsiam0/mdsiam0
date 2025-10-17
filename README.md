@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co.com/kgRbCY08/Screenshot-2025-10-17-195251.png" alt="Siam's GitHub Banner">
+  <img src="https://i.ibb.co.com/kgRbCY08/Screenshot-2025-10-17-195251.png" alt="Siam's GitHub Banner" style="max-width: 100%; height: auto;" />
 </p>
 
 <div align="center">
