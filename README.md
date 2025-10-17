@@ -59,11 +59,12 @@ Tools & Others:
 📊 My GitHub Stats
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26locale%3Den%26theme%3Dtokyonight" alt="siam-github-stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dyour-github-username%26layout%3Dcompact%26locale%3Den%26theme%3Dtokyonight" alt="siam-top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsiam0&show_icons=true&locale=en&theme=tokyonight" alt="siam-github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsiam0&layout=compact&locale=en&theme=tokyonight" alt="siam-top-langs" />
 </p>
+
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dyour-github-username%26theme%3Dtokyonight" alt="siam-streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsiam0&theme=tokyonight" alt="siam-streak" />
 </p>
 
 📫 Let's Connect!
@@ -77,7 +78,6 @@ You can find me in the following places. I'm always open to connecting with othe
 
 <strong>Phone:</strong> +880 1762 248517
 
-<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-username" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siam-linkedin" height="30" width="40" /></a>
-<a href="https://www.google.com/search?q=https://twitter.com/your-twitter-handle" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siam-twitter" height="30" width="40" /></a>
-<a href="https://www.google.com/search?q=https://stackoverflow.com/users/your-stackoverflow-id/your-username" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="siam-stackoverflow" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mdsiam0/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="siam-linkedin" height="30" width="40" /></a>
+<a href="https://x.com/mds1am" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="siam-twitter" height="30" width="40" /></a>
 </p>
