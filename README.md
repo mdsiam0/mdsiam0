@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://i.ibb.co/kgRbCY08/Screenshot-2025-10-17-195251.png" alt="Siam's GitHub Banner" width="100%" />
 </p>
-
+<h1 align="center">Hi 👋, I'm Md. Siam</h1>
+<h3 align="center">A passionate frontend develosper from Bangladehs</h3>
 
 🙋‍♂️ About Me
 
